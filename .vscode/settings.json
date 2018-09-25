@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}/ecomm/bin/python",
+    "git.ignoreLimitWarning": true
+}
